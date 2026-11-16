@@ -1,0 +1,14 @@
+{
+  "name": "claude-tema",
+  "owner": { "name": "PaelPelmeny" },
+  "metadata": {
+    "description": "Мод tema: пять тем оформления для приложения Claude с живыми фоновыми сценами"
+  },
+  "plugins": [
+    {
+      "name": "tema",
+      "source": "./",
+      "description": "Темы оформления для Claude: Космос, Бумага, Хвоя, Сакура и Блочная зима; переключение командой /tema"
+    }
+  ]
+}
